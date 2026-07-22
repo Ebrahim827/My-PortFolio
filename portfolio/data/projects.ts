@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Weather application that provides real-time forecasts using a weather API. It has a modern interface focused on easy usage and accurate weather insights.",
 
-    image: "/projects/weather.png",
+    image: "/projects/Weather.png",
 
     github: "https://github.com/Ebrahim827",
 
@@ -44,7 +44,7 @@ export const projects = [
 
   description:
     "The model learns patterns from thousands of leaf images to recognize diseases. It was trained on a large dataset of healthy and diseased leaves. The user uploads an image of an infected crop leaf and it gives the disease name along with accuracy helping farmers and researchers detect plant diseases timely and accurately.",
-  image: "/projects/crop.png",
+  image: "/projects/Crop.png",
 
   github: "https://github.com/Ebrahim827/CropDiseaseDetector",
 
