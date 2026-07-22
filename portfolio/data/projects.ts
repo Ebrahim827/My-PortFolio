@@ -79,4 +79,25 @@ export const projects = [
   ],
 },
 
+{
+  title: "Tank Battle Game",
+
+  description:
+    "A multiplayer tank battle game with real-time combat, destructible environments, and smooth controls. It includes a dynamic weapon system with power-ups, smooth particle effects and multiple game modes (1P vs AI, 2P Local, Online). The game is built with JavaScript mainly and uses WebSockets for real-time multiplayer functionality(Not on Vercel btw :).",
+  image: "/projects/Tank.png",
+
+  github: "https://github.com/Ebrahim827/TankBattle/",
+
+  live: "https://ebtank-battle.vercel.app/",
+
+  technologies: [
+    "Vanilla JavaScript",
+    "HTML5 Canvas",
+    "WebSockets",
+    "Node.js",
+    "Express.js",
+    "Socket.io",
+  ],
+},
+
 ];
